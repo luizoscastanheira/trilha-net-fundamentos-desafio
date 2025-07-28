@@ -35,6 +35,9 @@ namespace DesafioFundamentos.Models
                     Neste trecho de código implementa-se o cálculo de horas de permanência do veículo no estacionamento
                     fazendo-se uso de duas variáveis.
                     O calculo segue a formula: "precoInicial + precoPorHora * horas" para a variável valorTotal
+
+                    Atenção: O numero de horas foi implementado em int, não leva em conta hora fracionada.
+                    Tal mudança poderá ser feita em futura atualização.
                 */
                 int horas = 0;
                 decimal valorTotal = 0;
