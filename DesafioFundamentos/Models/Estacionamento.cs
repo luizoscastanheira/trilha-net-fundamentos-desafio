@@ -36,7 +36,7 @@ namespace DesafioFundamentos.Models
                     fazendo-se uso de duas variáveis.
                     O calculo segue a formula: "precoInicial + precoPorHora * horas" para a variável valorTotal
 
-                    Atenção: O numero de horas foi implementado em int, não leva em conta hora fracionada.
+                    Atenção: O numero de horas, por ser implementado em int(não mudei a proposta inicial), não leva em conta hora fracionada.
                     Tal mudança poderá ser feita em futura atualização.
                 */
                 int horas = 0;
